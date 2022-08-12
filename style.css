@@ -29,11 +29,11 @@ justify-content: center;
 font-family: 'Segoe UI';
 font-style: normal;
 font-weight: 700;
-font-size: 20px;
+font-size: 15px;
 line-height: 16px;
 }
 .user {
-    padding-left: 105px;
+    padding-left: 25px;
     padding-top: 25px;
     width: 144px;
     height: 192px;
@@ -41,7 +41,7 @@ line-height: 16px;
 }
 .melumatlar_umumi {
     padding-top: 25px;
-    margin-left: 90px;
+    margin-left: 50px;
 }
 .melumatlar{
     display: flex;
@@ -53,17 +53,21 @@ line-height: 16px;
 font-family: 'Segoe UI';
 font-style: normal;
 font-weight: 350;
-font-size: 20px;
-line-height: 16px;
+font-size: 14px;
+width: 100px;
+ 
 }
 .ad1 , .ad1_{
-margin-left: 150px;
+margin-left: 50px;
 font-family: 'Segoe UI';
 font-style: normal;
 font-weight: 600;
-font-size: 20px;
+font-size: 14px;
 line-height: 16px;
 color: #1664C5;
+}
+.ad_soyad{
+    padding-left:80px;
 }
 .ad_{  
     padding-top: 25px;
@@ -72,16 +76,16 @@ color: #1664C5;
     padding-top: 25px;
 }
 .imtahan {
-    padding-right: 50px;
+    padding-right: 36px;
 }
 .ixtisas{
-    padding-right: 93px;
+    padding-right: 66px;
 }
 .tarix {
-    padding-right: 120px;
+    padding-right: 89px;
 }
 .saat {
-    padding-right: 169px;
+    padding-right: 125px;
 }
 
 /* elaqe starts */
