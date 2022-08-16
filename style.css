@@ -39,15 +39,20 @@ line-height: 16px;
     height: 192px;
 
 }
-.melumatlar_umumi {
-    padding-top: 25px;
-    margin-left: 50px;
-}
-.melumatlar{
+
+
+.melumatlar_umumi{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding-top: 25px;
+    margin-left: 50px;
 }
+.melumatlar2 {
+    display: flex;
+    flex-direction: column;
+}
+
 .ad , .ad_{
 
 font-family: 'Segoe UI';
@@ -66,15 +71,17 @@ font-size: 14px;
 line-height: 16px;
 color: #1664C5;
 }
-.ad_soyad{
-    padding-left:80px;
-}
 .ad_{  
     padding-top: 25px;
 }
 .ad1_ {
-    padding-top: 25px;
+    padding-top: 28px;
 }
+
+/* .ad_soyad{
+    padding-left:80px;
+}
+
 .imtahan {
     padding-right: 36px;
 }
@@ -86,7 +93,7 @@ color: #1664C5;
 }
 .saat {
     padding-right: 125px;
-}
+} */
 
 /* elaqe starts */
 .elaqe {
